@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DocAmz
 - 👀 I’m interested in gaming / design / webdev
-- 🌱 I’m currently learning wordpress plugin dev
+- 🌱 I’m fullstack next.js dev
 - 💞️ I’m looking to collaborate on : who knows ? 
 - 📫 How to reach me 
 - Discord #Doc.Os#6666
