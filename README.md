@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DocAmz
-- 👀 I’m interested in gaming / design / webdev
 - 🌱 I’m fullstack typescript dev
 - 💞️ I’m looking to collaborate on : who knows ? 
 - 📫 How to reach me 
