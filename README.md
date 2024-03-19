@@ -20,7 +20,7 @@ I'm a passionate frontend developer with expertise in building applications. Cur
 ### ByDoc SaaS Application
 
 - Description: A standalone full suite for document management respecting company privacy SaaS solution built with Next.js, React, TypeScript, and Tailwind CSS. Integrates Fabric.js for advanced design customization.
-- GitHub: [Project Repository]([https://github.com/your-organization/web-to-print-saas](https://github.com/DocAmz/By-Doc-Suite))
+- GitHub: [Project Repository](https://github.com/DocAmz/By-Doc-Suite)
 
 ### Portfolio Website
 
