@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @DocAmz
-- 🌱 I’m fullstack typescript dev
-- 💞️ I’m looking to collaborate on : who knows ? 
-- 📫 How to reach me 
-- Discord #Doc.Os#6666
+# Hi there, I'm DocAmz! 👋
 
-<!---
-DocAmz/DocAmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate frontend developer with expertise in building web-to-print SaaS applications. Currently, I'm working with Next.js 13, TypeScript, React, and Tailwind CSS, leveraging the powerful Canva technology Fabric.js v6.0.0 beta for innovative solutions.
+
+- 🔭 I’m currently working on: Developing a cutting-edge web-to-print SaaS application.
+- 🌱 I’m currently learning: Advanced TypeScript patterns and optimization techniques.
+- 💬 Ask me about: Frontend development, Next.js, TypeScript, React, Tailwind CSS, Fabric.js.
+- 📫 How to reach me: Discord => docamz
+- 😄 Pronouns: He/Him
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS, PHP
+- **Frameworks/Libraries**: React, Next.js, MobX
+- **Design Tools**: Canva, Fabric.js
+- **Other**: Git, Tailwind CSS
+
+## Projects
+
+### ByDoc SaaS Application
+
+- Description: A standalone full suite for document management respecting company privacy SaaS solution built with Next.js, React, TypeScript, and Tailwind CSS. Integrates Fabric.js for advanced design customization.
+- GitHub: [Project Repository]([https://github.com/your-organization/web-to-print-saas](https://github.com/DocAmz/By-Doc-Suite))
+
+### Portfolio Website
+
+- Description: My personal portfolio website showcasing my projects and skills.
+- Link: [Project](https://bydoc.fr/) not uptodate
+
+## GitHub Stats
+
+![DocAmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocAmz&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocAmz&layout=compact&theme=dark)](https://github.com/DocAmz)
+
