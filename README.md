@@ -1,6 +1,6 @@
 # Hi there, I'm DocAmz! 👋
 
-I'm a passionate frontend developer with expertise in building web-to-print SaaS applications. Currently, I'm working with Next.js 13, TypeScript, React, and Tailwind CSS, leveraging the powerful Canva technology Fabric.js v6.0.0 beta for innovative solutions.
+I'm a passionate frontend developer with expertise in building applications. Currently, I'm working with Next.js 14, TypeScript, React, and Tailwind CSS.
 
 - 🔭 I’m currently working on: Developing a cutting-edge web-to-print SaaS application.
 - 🌱 I’m currently learning: Advanced TypeScript patterns and optimization techniques.
