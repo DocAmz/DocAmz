@@ -11,7 +11,7 @@ I'm a passionate frontend developer with expertise in building applications. Cur
 ## Skills
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS, PHP
-- **Frameworks/Libraries**: React, Next.js, MobX
+- **Frameworks/Libraries**: Vue, React, Next.js, MobX
 - **Design Tools**: Canva, Fabric.js
 - **Other**: Git, Tailwind CSS
 
