@@ -22,11 +22,6 @@ I'm a passionate frontend developer with expertise in building applications. Cur
 - Description: A standalone full suite for document management respecting company privacy SaaS solution built with Next.js, React, TypeScript, and Tailwind CSS.
 - GitHub: [Project Repository](https://github.com/DocAmz/By-Doc-Suite)
 
-### Portfolio Website
-
-- Description: My personal portfolio website showcasing my projects and skills.
-- Link: [Project](https://bydoc.fr/) not uptodate
-
 ## GitHub Stats
 
 ![DocAmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocAmz&show_icons=true&theme=dark)
