@@ -24,7 +24,7 @@ I'm a passionate frontend developer with expertise in building applications. Cur
 
 ## GitHub Stats
 
-![DocAmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocAmz&show_icons=true&theme=dark)
+<!-- ![DocAmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocAmz&show_icons=true&theme=dark) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocAmz&layout=compact&theme=dark)](https://github.com/DocAmz)
 
