@@ -1,10 +1,10 @@
 # Hi there, I'm DocAmz! 👋
 
-I'm a passionate frontend developer with expertise in building applications. Currently, I'm working with Next.js 14, TypeScript, React, and Tailwind CSS.
+I'm a passionate frontend developer with expertise in building applications. Currently, I'm working with Next.js, TypeScript, React, and Tailwind CSS.
 
-- 🔭 I’m currently working on: Developing a Node.js RESTful API To convert pdf into json data
+- 🔭 I’m currently working on: A library to manage and repair webfont
 - 🌱 I’m currently learning: Advanced TypeScript patterns and optimization techniques.
-- 💬 Ask me about: Frontend development, Next.js, TypeScript, React, Tailwind CSS, Fabric.js.
+- 💬 Ask me about: Frontend development, Next.js, TypeScript, React, Tailwind CSS, Canvas, webfont.
 - 📫 How to reach me: Discord => docamz
 - 😄 Pronouns: He/Him
 
@@ -13,14 +13,14 @@ I'm a passionate frontend developer with expertise in building applications. Cur
 - **Languages**: JavaScript, TypeScript, HTML, CSS, PHP
 - **Frameworks/Libraries**: Vue, React, Next.js, MobX
 - **Design Tools**: Canva, Fabric.js
-- **Other**: Git, Tailwind CSS
+- **Other**: Git, Tailwind CSS, python
 
 ## Projects
 
-### ByDoc SaaS Application
+### Advanced-font-Manage
 
-- Description: A standalone full suite for document management respecting company privacy SaaS solution built with Next.js, React, TypeScript, and Tailwind CSS.
-- GitHub: [Project Repository](https://github.com/DocAmz/By-Doc-Suite)
+- Description: A TypeScript library for managing web font loading with support for multiple sources, validation, and error handling.
+- GitHub: [Project Repository](https://github.com/DocAmz/advanced-font-manager)
 
 ## GitHub Stats
 
